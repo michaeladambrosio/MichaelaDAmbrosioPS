@@ -7,16 +7,16 @@
 }
 
 h3 {
-    color: rgb(255, 203, 61)
+    color: rgb(37, 52, 132)
 }
 
 body {
-    background-color: rgb(99, 220, 224);
+    background-color: rgb(160, 240, 243);
     color: white;
     padding: 30px;
 }
 
 ul {
-    border: 1px solid rgb(138, 229, 143);
+    border: 1px solid rgb(62, 220, 70);
     padding: 20px;
 }
